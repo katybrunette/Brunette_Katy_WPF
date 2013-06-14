@@ -6,7 +6,7 @@ var oneHour = "420 calories";//one hour of pole dancing burns 420 calories
 
 var calsBurned = [210,840,375,520,420];//array of calorie information
 var averageCals = (calsBurned[0] + calsBurned[1] + calsBurned[2] + calsBurned[3] + calsBurned[4]) / 5;//array code that adds all the values together
-
+console.log(averageCals);//prints average number of calories burned to console - correct
 
 
 
