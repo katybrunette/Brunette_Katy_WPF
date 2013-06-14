@@ -6,6 +6,6 @@ var gigaByte = 1;//showing that just one gigabyte = 1024 megabytes
 
 var gigaByte = 250;//giving a variable to gigaByte for calculation
 
-var totalMegs = megaByte * gigaByte; 
-console.log(totalMegs); 
+var totalMegs = megaByte * gigaByte;//calculation 
+console.log(totalMegs);//end result which is = 256,000 
 
