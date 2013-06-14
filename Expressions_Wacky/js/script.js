@@ -11,10 +11,10 @@ var calsBurned = [210, 840, 375, 520, 420];//array of calorie information
 
 
 
-var firstName = "Katy"; 
-var lastName = " Brunette";
-var wholeName = firstName + lastName; 
-console.log(wholeName);
+var firstName = "Katy"; //this may be added to end of code - first name
+var lastName = " Brunette";//last name
+var wholeName = firstName + lastName;//this is the calculation of names 
+console.log(wholeName);//prints the combined strings to console
 
 
 
