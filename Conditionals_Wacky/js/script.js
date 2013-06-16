@@ -10,8 +10,6 @@ stripping != poleDance; //these are NOT the same
 
 var age = 17; 
 var ageWithConsent = 16;
-var painTol = "high"; 
-var money = "enough";
 
 if(age >= 18){
 	console.log("You are old enough to get a tattoo!");
