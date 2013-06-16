@@ -12,5 +12,7 @@ var age = 18;
 var painTol = "high"; 
 var money = "enough";
 
-
+if(age >= 18){
+	console.log("You are old enough to get a tattoo!");
+}
 
