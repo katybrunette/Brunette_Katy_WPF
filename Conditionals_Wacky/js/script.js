@@ -1,7 +1,8 @@
 //WPF - Conditionals Assignment - Wacky - Katy Brunette - 6/15/13
 
-var poleDance; 
-var stripping; 
+var poleDance; //my wacky "Not Operator" variable
+var stripping; //my wacky "Not Operator" second variable
 
-poleDance != stripping; 
-stripping != poleDance; 
+poleDance != stripping; //these are NOT the same
+stripping != poleDance; //these are NOT the same
+
