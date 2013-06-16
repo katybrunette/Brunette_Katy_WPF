@@ -1,7 +1,7 @@
 //WPF - Conditionals Assignment - Wacky - Katy Brunette - 6/15/13
 
-var cats; 
-var dogs; 
+var poleDance; 
+var stripping; 
 
-cats != dogs; 
-dogs != cats; 
+poleDance != stripping; 
+stripping != poleDance; 
