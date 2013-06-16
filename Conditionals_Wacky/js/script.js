@@ -6,3 +6,11 @@ var stripping; //my wacky "Not Operator" second variable
 poleDance != stripping; //these are NOT the same
 stripping != poleDance; //these are NOT the same
 
+//adding "else if" to this part of the assignment. 
+
+var age = 18; 
+var painTol = "high"; 
+var money = "enough";
+
+
+
