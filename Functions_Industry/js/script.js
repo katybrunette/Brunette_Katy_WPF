@@ -2,4 +2,5 @@
 
 function printRes(){
 	alert("Print resolution should be at 300 or higher.");
+	console.log(printRes);
 }
