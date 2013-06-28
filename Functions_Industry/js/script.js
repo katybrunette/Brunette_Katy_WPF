@@ -7,6 +7,6 @@ function printRes(){ //named my function printRes for print resolution
 printRes();
 
 
-function screenRes(){
-	
+var a = function pixelCount(){
+ 	a -- ; 
 }
