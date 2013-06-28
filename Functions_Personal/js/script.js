@@ -1,6 +1,6 @@
 //WPF - Functions: Personal - Katy Brunette - 6/27/2013
 
-function hoopingCals(){
+function hoopCalsBurned(){
 	var hours = 2;
-	var calsPerHour = 420; 
+	var calsPerHr = 420;
 }
