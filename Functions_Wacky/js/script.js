@@ -2,5 +2,6 @@
 
 var vampDracula = function(){
 	prompt("What do vampires want?");
+	return vampDracula;
 }
 vampDracula();
