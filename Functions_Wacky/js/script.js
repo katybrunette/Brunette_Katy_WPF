@@ -5,3 +5,10 @@ var vampDracula = function(){
 	return vampDracula;
 }
 vampDracula();
+
+function vampText(){
+	var vampFood = "blood"; 
+	var vamp = "Dracula";
+	console.log(vamp + " wants to drink your " + vampFood);
+}
+vampText();
