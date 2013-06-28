@@ -3,5 +3,6 @@
 function hoopCalsBurned(){
 	var hours = 2;
 	var calsPerHr = 420;
+	var hoopCalsBurned = hours * calsPerHr;
 	console.log(hoopCalsBurned);
 }
